@@ -25,3 +25,4 @@ https://github.com/danieljcoh/pygame-pymania/assets/37455228/00054eaf-4772-444f-
 
 ### Collision 🚶🏻‍♀️🚗
 <!-- VIDEO 3 -->
+https://github.com/danieljcoh/pygame-pymania/assets/37455228/08cd0942-7ab7-4c0d-94d2-dddfca9c3a41
