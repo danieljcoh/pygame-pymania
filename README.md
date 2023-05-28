@@ -26,15 +26,15 @@
 
 ## Demo
 ### Movement 🚶🏼‍♂️
-<p>Using the four arrow keys on a keyboard, the player can move the player character any direction among 8-axis.</p>
 <!-- VIDEO 1 -->
 https://github.com/danieljcoh/pygame-pymania/assets/37455228/9884c0c9-60f4-4660-a2a4-c493e98b19ff
+<p>Using the four arrow keys on a keyboard, the player can move the player character any direction among 8-axis.</p>
 
 ### Traversal 🏃
 <!-- VIDEO 2 -->
 https://github.com/danieljcoh/pygame-pymania/assets/37455228/00054eaf-4772-444f-a9da-554585f49fbb
 
 ### Collision 🚶🏻‍♀️🚗
-<p>The way the collisions are set up, the game stops whenever the play collides with an object they shouldn't.</p>
 <!-- VIDEO 3 -->
 https://github.com/danieljcoh/pygame-pymania/assets/37455228/08cd0942-7ab7-4c0d-94d2-dddfca9c3a41
+<p>The way the collisions are set up, the game stops whenever the play collides with an object they shouldn't.</p>
